@@ -14,5 +14,4 @@ It contains 3 standalone tool
 3.LFI payload maker
 
 Greetz to team -|4sec| & |MHU| -Cr3ws
-matrix_w0rm
 Contact:nullbyte@hotmail.com
